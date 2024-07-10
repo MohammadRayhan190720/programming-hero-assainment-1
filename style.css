@@ -455,7 +455,7 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
-background-image: url(/images/handshake-img.jpg);
+background-image: url(images/handshake-img.jpg);
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
