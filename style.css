@@ -529,3 +529,34 @@ padding: 10px;
 
 
  /* feedback section ends hare */
+ /* footer section start hare */
+ #footer-section{
+  width: 1140px;
+height: 100px;
+margin: 30px auto;
+border: 2px solid red;
+display: flex;
+justify-content: space-between;
+align-items: center;
+ }
+ #footer-section p{
+  color: rgb(13, 19, 33);
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+ }
+ .contact-information{
+  display: flex;
+  gap: 20px;
+ }
+ .btn{
+  padding: 10px;
+  font-size: 40px;
+  border-radius: 50%;
+  border: none;
+ }
+
+
+ /* footer section ends hare */
+
