@@ -320,15 +320,7 @@ letter-spacing: 0%;
 opacity: 0.7;
 margin-bottom: 10px;
 }
-.card-item1 a{
-  color: rgb(13, 19, 33);
-font-size: 16px;
-font-weight: 700;
-line-height: 19px;
-letter-spacing: 0%;
-text-decoration-line: underline;
-margin-top: 10px;
-}
+
 .card-item2{
   width: 364px;
 height: 350px;
@@ -356,15 +348,7 @@ letter-spacing: 0%;
 opacity: 0.7;
 margin-bottom: 10px;
 }
-.card-item2 a{
-  color: rgb(13, 19, 33);
-font-size: 16px;
-font-weight: 700;
-line-height: 19px;
-letter-spacing: 0%;
-text-decoration-line: underline;
-margin-top: 10px;
-}
+
 .card-item3{
   width: 364px;
 height: 350px;
@@ -392,7 +376,7 @@ letter-spacing: 0%;
 opacity: 0.7;
 margin-bottom: 10px;
 }
-.card-item3 a{
+.learn-more-style{
   color: rgb(13, 19, 33);
 font-size: 16px;
 font-weight: 700;
@@ -403,3 +387,67 @@ margin-top: 10px;
 }
 
  /* current target section ends hare */
+ /* next-target section start hare */
+ #next-target-section{
+  width: 1140px;
+height: 1000px;
+border: 2px solid green;
+margin: 0 auto;
+
+ }
+ .next-target-title{
+  width: 946px;
+height: 150px;
+margin: 0 auto;
+border: 2px solid red;
+text-align: center;
+ }
+ .next-target-title h2{
+  color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+ }
+ .next-target-title p{
+  color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+opacity: 0.7;
+margin-top: 24px;
+
+ }
+ .recat-skill{
+  width: 1140px;
+height: 250px;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+padding: 30px;
+margin-top: 30px;
+display: flex;
+gap: 40px;
+align-items: center;
+justify-content: center;
+ }
+ .recat-skill-description h2{
+  color: rgb(13, 19, 33);
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+margin-bottom: 20px;
+ }
+ .recat-skill-description p{
+  color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+opacity: 0.7;
+margin-bottom: 20px;
+ }
+
+
+ /* next-target section ends hare */
